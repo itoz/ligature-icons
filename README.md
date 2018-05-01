@@ -5,7 +5,7 @@ Google Material icon や、Font Awesomeのような、独自のligature(合字)�
 
 事前にインストールが必要なツール(fontforgeなど)があるのでリンク先参照。  
 
-[grunt-webfont]:https://www.npmjs.com/package/grunt-webfont
+[grunt-webfont](https://www.npmjs.com/package/grunt-webfont)
 
 ```
 $npm i
