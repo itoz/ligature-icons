@@ -1,5 +1,8 @@
 # Create ligature icons
 
+Google Material icon や、Font Awesomeのような、独自のligature(合字)フォントを作成します。
+
+
 事前にインストールが必要なツール(fontforgeなど)があるのでリンク先参照。  
 
 [grunt-webfont]:https://www.npmjs.com/package/grunt-webfont
@@ -23,7 +26,7 @@ $npm start
 `dist/fonts/ligature-icons/_sample.html`
 
 
-##[step4] 任意のプロジェクトに設置する
+## [step4] 任意のプロジェクトに設置する
 
 1. `dist/fonts/ligature-icons/*` を任意のプロジェクトにコピー
 1. `dist/scss/*.scss` を任意のプロジェクトにコピーしソース内のパスを1に変更する
