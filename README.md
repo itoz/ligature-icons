@@ -23,14 +23,14 @@ $npm start
 `dist/fonts/ligature-icons/_sample.html`
 
 
-## 任意のプロジェクトに設置する
+##[step4] 任意のプロジェクトに設置する
 
 1. `dist/fonts/ligature-icons/*` を任意のプロジェクトにコピー
 1. `dist/scss/*.scss` を任意のプロジェクトにコピーしソース内のパスを1に変更する
 1. 2のscssをpartialとして他のscssから読み込んでビルドされるように設定。
 
 
-## コード記述例
+### コード記述例
 
 
 ex) githubアイコンを表示したい場合
