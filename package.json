@@ -1,0 +1,20 @@
+{
+  "name": "ligature-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt"
+  },
+  "author": "itoz",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-webfont": "^1.6.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
